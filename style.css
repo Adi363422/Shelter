@@ -8,5 +8,10 @@ h1{
 
 ul{
     border: 1px solid black;
-    
+
+}
+
+.home-image{
+    width: 250px;
+    border: 3px solid black;
 }
