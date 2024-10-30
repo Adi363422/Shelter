@@ -1,5 +1,12 @@
+
+
 body{
     background-color: antiquewhite;
+    margin: 0;
+}
+
+body>div{
+    margin: 2px;
 }
 
 h1{
